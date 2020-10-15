@@ -2,6 +2,10 @@
 
 El repositorio correspondiente a esta lección está disponible en [https://github.com/tpb708-programacionsig-2020/leccion-11-fiona-shapely/](https://github.com/tpb708-programacionsig-2020/leccion-11-fiona-shapely/). Se recomienda bifurcarlo a su cuenta en GitHub.
 
+## Recursos
+- Sitio oficial de Fiona: [Toblerity/Fiona: Fiona reads and writes geographic data files](https://github.com/Toblerity/Fiona)
+- Sitio oficial de Shapely: [Toblerity/Fiona: Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely)
+
 ## Notebooks
 - [Fiona y Shapely](https://github.com/tpb708-programacionsig-2020/leccion-11-fiona-shapely/blob/master/fiona-shapely.ipynb)
 
