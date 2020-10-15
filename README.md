@@ -22,7 +22,7 @@ conda activate leccion-11
 conda install -c anaconda jupyter
 # Fiona
 conda install -c conda-forge fiona
-# Shapely
+# Shapely (parece instalarse junto con Fiona)
 conda install -c conda-forge shapely
 
 # Clonación del repositorio (debe sustituir la palabra "usuario" por su nombre de usuario en GitHub)
