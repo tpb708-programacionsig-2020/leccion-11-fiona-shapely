@@ -22,12 +22,9 @@ conda create -n leccion-11
 conda activate leccion-11
 
 # Instalación de módulos
-# Jupyter
-conda install -c anaconda jupyter
-# Fiona
-conda install -c conda-forge fiona
-# Shapely (parece instalarse junto con Fiona)
-conda install -c conda-forge shapely
+conda config --env --add channels conda-forge
+conda config --env --set channel_priority strict
+conda install python=3 shapely fiona jupyter
 
 # Clonación del repositorio (debe sustituir la palabra "usuario" por su nombre de usuario en GitHub)
 git clone https://github.com/usuario/leccion-11-fiona-shapely.git
